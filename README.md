@@ -1,6 +1,6 @@
 # direct_link
 
-For those who want to create a movie and downloader app, this is a useful package.
+For those who want to create a downloader app, this is a useful package.
 
 You can get a direct link from the URL that my support sites.
 
